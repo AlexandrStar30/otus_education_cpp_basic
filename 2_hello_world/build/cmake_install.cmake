@@ -1,4 +1,4 @@
-# Install script for directory: C:/SVN/demo2/temp_cpp_course
+# Install script for directory: C:/SVN/demo2/temp_cpp_course/otus_education_cpp_basic/2_hello_world
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/SVN/demo2/temp_cpp_course/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/SVN/demo2/temp_cpp_course/otus_education_cpp_basic/2_hello_world/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

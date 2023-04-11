@@ -2,13 +2,13 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\SVN\demo2\temp_cpp_course\build\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\SVN\demo2\temp_cpp_course\otus_education_cpp_basic\2_hello_world\build\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\SVN\demo2\temp_cpp_course\build\Debug\hello_world.exe</FullPath>
+      <FullPath>C:\SVN\demo2\temp_cpp_course\otus_education_cpp_basic\2_hello_world\build\Debug\hello_world.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\SVN\demo2\temp_cpp_course\build\x64\Debug\ALL_BUILD</FullPath>
+      <FullPath>C:\SVN\demo2\temp_cpp_course\otus_education_cpp_basic\2_hello_world\build\x64\Debug\ALL_BUILD</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

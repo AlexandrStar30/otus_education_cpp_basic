@@ -1,6 +1,6 @@
-^C:\SVN\DEMO2\TEMP_CPP_COURSE\CMAKELISTS.TXT
+^C:\SVN\DEMO2\TEMP_CPP_COURSE\OTUS_EDUCATION_CPP_BASIC\2_HELLO_WORLD\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/SVN/demo2/temp_cpp_course -BC:/SVN/demo2/temp_cpp_course/build --check-stamp-file C:/SVN/demo2/temp_cpp_course/build/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/SVN/demo2/temp_cpp_course/otus_education_cpp_basic/2_hello_world -BC:/SVN/demo2/temp_cpp_course/otus_education_cpp_basic/2_hello_world/build --check-stamp-file C:/SVN/demo2/temp_cpp_course/otus_education_cpp_basic/2_hello_world/build/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
