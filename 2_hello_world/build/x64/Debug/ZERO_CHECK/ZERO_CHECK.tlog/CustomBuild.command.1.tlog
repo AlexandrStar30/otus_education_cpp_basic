@@ -1,0 +1,10 @@
+^C:\SVN\DEMO2\TEMP_CPP_COURSE\BUILD\CMAKEFILES\527585A2417707EEFEC8BACFB478198B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/SVN/demo2/temp_cpp_course -BC:/SVN/demo2/temp_cpp_course/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/SVN/demo2/temp_cpp_course/build/01.hello_world.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

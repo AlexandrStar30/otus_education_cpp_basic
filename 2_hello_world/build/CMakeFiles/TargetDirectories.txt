@@ -1,0 +1,3 @@
+C:/SVN/demo2/temp_cpp_course/build/CMakeFiles/hello_world.dir
+C:/SVN/demo2/temp_cpp_course/build/CMakeFiles/ALL_BUILD.dir
+C:/SVN/demo2/temp_cpp_course/build/CMakeFiles/ZERO_CHECK.dir
